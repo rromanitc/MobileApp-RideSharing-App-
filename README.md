@@ -5,13 +5,21 @@ Take Me Home is a ridesharing app for fast, reliable travel at any time during t
 Take Me Home – here’s how it works:
 - Login or Signup.
 ![](pics/one.png)
+
+
 - Opening the app and tell where you want to go.
 ![](pics/two.png)
+
+
 - The app uses your location, so your driver knows where to pick you up.
 - You’ll see your driver’s picture and vehicle details and can track their arrival on the map.
 ![](pics/three.png)
+
+
 - Vehicle Selection
 ![](pics/four.png)
+
+
 - Coupons
 - Payment can be made by credit card, cash (in selected cities only)
 - After the ride, you can rate your driver and provide feedback for the Take Me Home experience.
