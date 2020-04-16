@@ -4,7 +4,9 @@ Take Me Home is a ridesharing app for fast, reliable travel at any time during t
 
 Take Me Home – here’s how it works:
 - Login or Signup.
+<div align="center">
 ![](pics/one.png)
+  </div>
 
 - Opening the app and tell where you want to go.
 
